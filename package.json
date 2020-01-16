@@ -1,13 +1,17 @@
 {
-  "name": "y",
+  "name": "gatsby-mdx-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "a starter template showing the usage of MDX in gatsby",
   "main": "index.js",
   "scripts": {
     "develop": "GATSBY_GRAPHQL_IDE=playground gatsby develop"
   },
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github-gabroun:gabroun/gatsby-mdx-starter.git"
+  },
+  "author": "Malik Elgabroun",
+  "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
