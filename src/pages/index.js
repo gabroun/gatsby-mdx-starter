@@ -2,7 +2,6 @@ import React from 'react';
 import Layout from '../components/Layout'
 import { css } from '@emotion/core';
 import { graphql } from 'gatsby';
-import { Link } from 'gatsby';
 import Search from '../components/Search'
 export const query = graphql`
     query {

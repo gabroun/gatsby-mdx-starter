@@ -2,7 +2,7 @@ import React from 'react';
 import styled from '@emotion/styled';
 import { css, Global } from '@emotion/core';
 import { Link } from 'gatsby';
-
+import Header from '../components/Header'
 const NavLink = styled(Link)`
   color: #222;
   font-size: 1rem;
@@ -58,6 +58,7 @@ const Layout = (props) => {
         <NavLink to="/" fontWeight="bold">
           Gatsby MDX starter
         </NavLink>
+        <Header/>
       </header>
       <main
         css={css`
