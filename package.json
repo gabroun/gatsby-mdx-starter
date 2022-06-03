@@ -24,7 +24,7 @@
     "gatsby-cli": "^2.8.26",
     "gatsby-plugin-algolia": "^0.5.0",
     "gatsby-plugin-emotion": "^4.1.21",
-    "gatsby-plugin-mdx": "^1.0.67",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-source-filesystem": "^2.1.46",
     "prism-react-renderer": "^1.0.2",
     "react": "^16.12.0",
